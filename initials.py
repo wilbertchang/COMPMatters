@@ -55,9 +55,33 @@ t.up()
 t.reset()
 
 
+t.pencolor ('blue')
+t.left (90)
+t.forward (100)
+t.right(135)
+t.forward (75)
+t.left (90)
+t.forward (75)
+t.right (135)
+t.forward (100)
+t.left (90)
+t.forward (10)
+t.left (90)
+t.forward (100)
+t.right (180)
+t.down
+t.forward (50)
+t.up
+t.left (135)
+t.forward (75)
+t.down
+t.right (180)
+t.forward (75)
+t.left (90)
+t.up
+t.forward (85)
 
-
-
+t.reset
 
 
 
