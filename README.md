@@ -1,2 +1,4 @@
 # COMPMatters
-COMP Matters
+
+## GitHub Exercise
+
