@@ -30,7 +30,29 @@ t.reset()
 # (the pencolor and pensize are also reset).
 # draw your initials with a different pensize and pencolor
 
+t.pencolor('magenta')
+t.pensize(5)
+t.down()
+t.left(45)
+t.forward(100)
+t.left(90)
+t.forward(100)
+t.left(135)
+t.forward(141)
+t.up()
+t.left(90)
+t.forward(100)
+t.left(60)
+t.down()
+t.forward(145)
+t.up()
+t.backward(145)
+t.down()
+t.left(45)
+t.forward(145)
+t.up()
 
+t.reset()
 
 
 
